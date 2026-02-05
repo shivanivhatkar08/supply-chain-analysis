@@ -108,6 +108,7 @@ Which logistics modes increase defects or costs
 How to balance profit margins against quality risk
 Which suppliers are dependable for long-term planning
 
+---------------------------------------------------------------------------------
 How all 3 pages work together (important insight)
 
 We start broad, then zoom in, then diagnose root causes.
