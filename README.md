@@ -12,7 +12,11 @@ Page 3: Which suppliers and logistics choices are helping or hurting us?
 
 ---------------------------------------------------------------------------------
 Page 1: Overview Dashboard (Executive View)
+
 This page is a health check of the entire supply chain. It tells you whether the supply chain is performing well overall and where the money is coming from.
+
+<img width="1427" height="767" alt="image" src="https://github.com/user-attachments/assets/184bdcae-66f0-47bf-8787-d3b52295f27e" />
+
 
 It summarizes:
 
@@ -45,7 +49,11 @@ The charts show what’s driving that performance:
 
 ----------------------------------------------------------------------------------------
 Page 2: Product Insights Dashboard (Product & Inventory View)
+
 This page goes one level deeper into individual products (SKUs). It helps us understand which products are healthy, which are risky, and which need action.
+
+<img width="1376" height="766" alt="image" src="https://github.com/user-attachments/assets/8fef486b-56e8-4bf6-94dd-cb99bc89003d" />
+
 
 It focuses on:
 a. How much each product sells
@@ -78,7 +86,11 @@ Some products sell well even at higher prices
 
 -------------------------------------------------------------------------------------------
 Page 3: Supplier Insights Dashboard (Supplier & Logistics View)
+
 This page evaluates how suppliers and transportation choices affect cost, quality, and risk. This page tells us which suppliers and logistics choices are actually good for the business.
+
+<img width="1387" height="767" alt="image" src="https://github.com/user-attachments/assets/fadc733f-b39a-4ae1-86fa-78f8df39edb7" />
+
 
 It analyzes:
 
